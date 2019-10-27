@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dove",
+      "quantity": 8,
+      "price": 39.99,
+      "image": "https://via.placeholder.com/193"
+    },
+    {
+      "id": 2,
+      "name": "Axe",
+      "quantity": 15,
+      "price": 99.99,
+      "image": "https://via.placeholder.com/193"
+    },
+    {
+      "id": 3,
+      "name": "Smashbox Bawse",
+      "quantity": 10,
+      "price": 2050,
+      "image": "https://via.placeholder.com/193"
+    },
+    {
+      "id": 4,
+      "name": "M.A.C Ruby Woo",
+      "quantity": 8,
+      "price": 1800,
+      "image": "https://via.placeholder.com/193"
+    },
+    {
+      "id": 5,
+      "name": "Wet n Wild Rebel Rose",
+      "quantity": 50,
+      "price": 450,
+      "image": "https://via.placeholder.com/193"
+    },
+    {
+      "id": 6,
+      "name": "Nykaa Madras Kaapi",
+      "quantity": 15,
+      "price": 599,
+      "image": "https://via.placeholder.com/193"
+    },
+    {
+      "id": 7,
+      "name": "Bobbi Brown English Rose",
+      "quantity": 15,
+      "price": 3800,
+      "image": "https://via.placeholder.com/193"
+    },
+    {
+      "id": 8,
+      "name": "Bobbi Brown Mauve",
+      "quantity": 15,
+      "price": 1800,
+      "image": "https://via.placeholder.com/193"
+    }
+  ]
+}

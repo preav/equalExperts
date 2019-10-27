@@ -1,0 +1,23 @@
+.ee__cart-products {
+  list-style: none;
+  padding: 0;
+}
+
+.ee__cart-products li {
+  padding: 10px 0;
+  border-bottom: 1px solid #1795d4;
+  width: auto;
+}
+
+.ee__cart-products .cart-item-wrapper {
+  display: inline-block;
+  margin-right: 20px;
+  width: 50%;
+}
+
+.cart-item-wrapper .item-image {
+  max-width: 75px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
