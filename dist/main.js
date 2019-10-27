@@ -106,7 +106,7 @@ eval("__webpack_require__.r(__webpack_exports__);\nclass Cart {\r\n  constructor
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _product_list_product_list__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./product-list/product-list */ \"./app/product-list/product-list.js\");\n\r\n\r\nconst productList = new _product_list_product_list__WEBPACK_IMPORTED_MODULE_0__[\"default\"]();\r\nproductList.init(\"../../data.json\");\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (productList);\r\n\n\n//# sourceURL=webpack:///./app/main.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _product_list_product_list__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./product-list/product-list */ \"./app/product-list/product-list.js\");\n\r\n\r\nconst productList = new _product_list_product_list__WEBPACK_IMPORTED_MODULE_0__[\"default\"]();\r\nproductList.init(\"./data.json\");\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (productList);\r\n\n\n//# sourceURL=webpack:///./app/main.js?");
 
 /***/ }),
 
